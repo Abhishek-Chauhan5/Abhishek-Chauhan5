@@ -9,6 +9,16 @@ I am actively seeking **Software Developer, Python Developer, Full Stack Develop
 
 ---
 
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+📍 2024 – 2026  
+🎯 **CGPA:** **8.55 / 10**
+
+**Bachelor of Science (Mathematics)**
+
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhishekchauhan0514) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek630646@gmail.com) 
 
