@@ -1,6 +1,13 @@
 # 💫 About Me:
-Computer Science student passionate about software development, cloud computing, and AI.<br>Skilled in building and deploying applications using AWS, with a focus on scalable and efficient solutions.<br>Currently enhancing expertise in data structures, backend development, and machine learning.
+🎓 **Master of Computer Applications (MCA)** Graduate (2026) with a **CGPA of 8.55/10**.
 
+I am a passionate Software Developer with a strong foundation in **Python, Java, Web Development, Cloud Computing, and Machine Learning**. I enjoy building scalable, user-friendly, and efficient applications while continuously learning modern technologies and industry best practices.
+
+I have hands-on experience developing responsive web applications, backend solutions, and cloud-based projects using AWS. My interests include software engineering, problem-solving, backend development, and artificial intelligence.
+
+I am actively seeking **Software Developer, Python Developer, Full Stack Developer, Backend Developer, and Cloud Engineer** opportunities where I can contribute, learn, and grow as a professional developer.
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhishekchauhan0514) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek630646@gmail.com) 
