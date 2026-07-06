@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 **Master of Computer Applications (MCA)** Graduate (2026) with a **CGPA of 8.55/10**.
+🎓 **Master of Computer Applications (MCA)** Graduate (2026) with a **CGPA of 8.52/10**.
 
 I am a passionate Software Developer with a strong foundation in **Python, Java, Web Development, Cloud Computing, and Machine Learning**. I enjoy building scalable, user-friendly, and efficient applications while continuously learning modern technologies and industry best practices.
 
@@ -13,7 +13,7 @@ I am actively seeking **Software Developer, Python Developer, Full Stack Develop
 
 **Master of Computer Applications (MCA)**  
 📍 2024 – 2026  
-🎯 **CGPA:** **8.55 / 10**
+🎯 **CGPA:** **8.52 / 10**
 
 **Bachelor of Science (Mathematics)**
 
@@ -29,7 +29,7 @@ I am actively seeking **Software Developer, Python Developer, Full Stack Develop
 ## 🚀 Professional Highlights
 
 - 🎓 MCA Graduate (2026)
-- ⭐ CGPA: **8.55 / 10**
+- ⭐ CGPA: **8.52 / 10**
 - 🏆 Top Performer in MCA
 - 🏅 100% Attendance Award Recipient
 - 💻 Passionate Software Developer
